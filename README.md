@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/dubey_ji9" target="blank"><img src="https://img.shields.io/twitter/follow/dubey_ji9?logo=twitter&style=for-the-badge" alt="dubey_ji9" /></a> </p>
 
-- 🌱 I’m currently learning **git version control**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **c language**
+- 💬 Ask me about **c,cpp language**
 
-- 📫 How to reach me **alokkumardubey09@gmail.com**
+- 📫 How to reach me **ad6381827980@gmail.com**
 
-- ⚡ Fun fact **xavier uncle 2.o**
+- ⚡ Fun fact **xavier**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
